@@ -19,5 +19,6 @@ server/public/styles.css.map
 coverage/*
 
 # Dotenv env settings
+.env
 
 .DS_Store
