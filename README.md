@@ -1,7 +1,9 @@
----PokeHuman---
+# PokeHuman
 
 ## Video Demo
 https://www.youtube.com/watch?v=McOADYs6mEM
+
+## Planning
 
 Wellbeing (when I'm stressed ... I need...) (general needs eg. kids, illness, sleep etc)
 
